@@ -10,5 +10,6 @@ namespace TestOfSourceManage
         public string Name { get; set; }
         public string ClassName { get; set; }
         public string ClassName2 { get; set; } 
+        public string ClassName3 { get; set; } 
     }
 }
